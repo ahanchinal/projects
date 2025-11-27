@@ -1,0 +1,1 @@
+**Automated Job Outreach System** - Built an automated job outreach system using low code tools on Make.com, APIs, Gmail and Google Drive to identify recruiters, send personalized emails, and attach resumes, reducing manual effort by 80% and scaling outreach to 30+ recruiters per day.
